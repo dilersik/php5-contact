@@ -1,0 +1,7 @@
+@import "contactMedia-screen.css" (max-width: 820px);
+
+#form_contact { float: left; width: 45%; }
+#contactRight { float: right; width: 45%; }
+
+.form label.lbl { display: block; margin-bottom: 10px; }
+.form label.lbl span { display: block; }

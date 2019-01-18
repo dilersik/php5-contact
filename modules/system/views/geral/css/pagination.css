@@ -1,0 +1,23 @@
+.paginas {
+    clear: both;
+    font-size: 1.1em;
+    padding-top: 15px;
+    text-align: right;
+}
+.paginas .text { display: block; margin-bottom: 20px }
+.paginas .texto_pag a {
+    background-color: #f7941e;
+    color: #FFF;
+    font-size: 1em;
+    margin: 1px;
+    padding: 8px 7px;
+    border-radius: 2px;
+}
+.paginas .pag_selec, .paginas .texto_pag a:hover { background-color: #faa642; }
+.paginas .pag_selec {
+    color: #FFF;
+    font-size: 1em;
+    margin: 1px;
+    padding: 8px 7px;
+    border-radius: 2px;
+}

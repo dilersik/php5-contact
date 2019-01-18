@@ -1,0 +1,6 @@
+@media screen and (max-width: 820px) {
+    #form_contact, #contactRight { float: none !important; text-align: center; width: 100% !important }
+    .title, #form_contact * { text-align: center;  }
+    #form_contact { margin-bottom: 50px !important; }
+    .input-text, .textarea { width: 96% !important; }
+}

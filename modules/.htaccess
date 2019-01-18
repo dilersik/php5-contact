@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule .*.(php|sql|txt)$ - [F,NC]
